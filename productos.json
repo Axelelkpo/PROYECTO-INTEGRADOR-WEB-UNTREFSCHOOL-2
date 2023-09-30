@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto Cafe Irish",
+    "descripcion": "Descripción del Producto 1.",
+    "imagen": "img/cafe-irish.jpg",
+    "precio": 19.99
+  },
+  {
+    "id": 2,
+    "nombre": "Producto Cafe Inglés",
+    "descripcion": "Descripción del Producto 2.",
+    "imagen": "img/cafe-ingles.jpg",
+    "precio": 29.99
+  },
+  {
+    "id": 3,
+    "nombre": "Producto Cafe Australiano",
+    "descripcion": "Descripción del Producto 3.",
+    "imagen": "img/cafe-australiano.jpg",
+    "precio": 19.99
+  },
+  {
+    "id": 4,
+    "nombre": "Producto Cafe Helado",
+    "descripcion": "Descripción del Producto 4.",
+    "imagen": "img/cafe-helado.jpg",
+    "precio": 19.99
+  }
+]

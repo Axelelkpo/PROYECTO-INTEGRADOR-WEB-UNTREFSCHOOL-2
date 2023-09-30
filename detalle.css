@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+#detallesProducto {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+#imagenProducto {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.star-rating {
+  font-size: 24px;
+}
+
+.star-rating .fa-star {
+  color: #6200ff;
+  cursor: pointer;
+  transition: color 0.5s;
+}
+
+i:hover {
+  text-decoration: underline;
+}
+
+.fas {
+  font-size: 16px;
+  color: #000;
+}
+
+.star-rating .fa-star.checked {
+  color: #ff9900;
+}
+@media (max-width: 320px) {
+  #detallesProducto {
+    margin: 10px;
+  }
+}
